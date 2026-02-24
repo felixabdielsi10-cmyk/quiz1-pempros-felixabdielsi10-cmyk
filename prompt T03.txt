@@ -1,0 +1,5 @@
+Gemini : 1. Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Institut  Teknologi  Del. (Program C) mata kuliah Pemograman Prosedural.
+         2. jelaskan satu persatu dengan detail dan sederhana dalam bahasa mahasiswa.
+         3. gabungkan menjadi satu program yang kompleks.
+
+

@@ -1,0 +1,5 @@
+Gemini : 1. buatlah penjelassannya dengan detail dan rinci dari program dibawah.
+         2. Gabungkan program menjadi satu.
+         3. Buatlah Program dari soal berikut ini menggunakkan bahasa sehari-hari.
+Chat GPT : 1. Buatlah penjelasan dari soal pemograman prosedural berikut dengan kompleks.
+           2. Humanize dan gabungkan program.

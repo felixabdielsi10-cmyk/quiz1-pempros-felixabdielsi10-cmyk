@@ -1,0 +1,4 @@
+Chat GPT : 1. kerjakan soall tersebut sampai mendapatkan output seperti contoh output di gambar.
+           2. dengan detail.
+           3. buatlah penjelassannya dengan detail dan rinci dari program diatas.
+Gemini   : 1. buatlah penjelassannya dengan detail dan rinci dari program diatas dengan bahasa sehari hari.
